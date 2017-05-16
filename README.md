@@ -1,2 +1,1 @@
-# Race-Survey
-Independent study with Ceballos
+This was a survey I did with my college professor, Dr. Ceballos. It was used to gauge interest in a class on race relatinos. The data were collected via paper surveys and I manually entered it in SPSS.
